@@ -1,0 +1,13 @@
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\bin\Debug\net9.0\Core.deps.json
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\bin\Debug\net9.0\Core.dll
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\bin\Debug\net9.0\Core.pdb
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\Core.sourcelink.json
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\Core.dll
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\refint\Core.dll
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\Core.pdb
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Users\karee\Documents\GitHub\torrent_service\TorrentService\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache

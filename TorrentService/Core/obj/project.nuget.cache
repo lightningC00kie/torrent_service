@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xR/aovHPts=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karee\\Documents\\GitHub\\torrent_service\\TorrentService\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karee\\.nuget\\packages\\mono.nat\\3.0.0\\mono.nat.3.0.0.nupkg.sha512",
+    "C:\\Users\\karee\\.nuget\\packages\\monotorrent\\3.0.3-alpha.unstable.rev0049\\monotorrent.3.0.3-alpha.unstable.rev0049.nupkg.sha512",
+    "C:\\Users\\karee\\.nuget\\packages\\reusabletasks\\4.0.0\\reusabletasks.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
