@@ -1,6 +1,8 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Core.Models;
+using Microsoft.Extensions.DependencyInjection;
 using Core.Services;
 using Core.Services.Interfaces;
+
 
 var services = new ServiceCollection();
 
@@ -10,4 +12,5 @@ services.AddScoped<IBEncoderService, BEncoderService>();
 var serviceProvider = services.BuildServiceProvider();
 var torrentFileService = serviceProvider.GetService<ITorrentFileService>();
 
-torrentFileService!.GetInfoHash("PATH_TO_TORRENT_FILE");
+TorrentMetadata metadata = torrentFileService!.Parse("PATH_TO_TORRENT_FILE");
+Console.WriteLine(metadata);
