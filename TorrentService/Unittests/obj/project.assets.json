@@ -465,6 +465,19 @@
         "runtime": {
           "bin/placeholder/Core.dll": {}
         }
+      },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -1100,11 +1113,17 @@
       "type": "project",
       "path": "../Core/Core.csproj",
       "msbuildProject": "../Core/Core.csproj"
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Core >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "NUnit >= 4.2.2",
       "NUnit.Analyzers >= 4.4.0",
@@ -1146,6 +1165,9 @@
           "projectReferences": {
             "C:\\Users\\karee\\Documents\\GitHub\\torrent_service\\TorrentService\\Core\\Core.csproj": {
               "projectPath": "C:\\Users\\karee\\Documents\\GitHub\\torrent_service\\TorrentService\\Core\\Core.csproj"
+            },
+            "C:\\Users\\karee\\Documents\\GitHub\\torrent_service\\TorrentService\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\karee\\Documents\\GitHub\\torrent_service\\TorrentService\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

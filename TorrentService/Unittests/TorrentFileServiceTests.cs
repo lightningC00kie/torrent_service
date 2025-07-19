@@ -1,5 +1,5 @@
-﻿using Core.Services;
-using Core.Services.Interfaces;
+﻿using Core.Interfaces;
+using Infrastructure.Services;
 
 namespace Unittests;
 
